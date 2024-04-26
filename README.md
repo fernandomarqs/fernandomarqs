@@ -27,6 +27,6 @@
 
 ## Onde me encontrar
 
-![Linkedin](https://img.shields.io/badge/-fernandomarqs-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernandomarqs/)
+[![Linkedin](https://img.shields.io/badge/-fernandomarqs-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernandomarqs/)
 [![Gmail Badge](https://img.shields.io/badge/-f247093@dac.unicamp.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:f247093@dac.unicamp.br)](mailto:f247093@dac.unicamp.br)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/fernandomarqs)
+[![GitHub](https://img.shields.io/github/)](https://github.com/fernandomarqs)
