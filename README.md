@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
 ## Sobre mim
 
 - Exploring new technologies and developing software solutions
@@ -29,6 +27,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandomarqs/](https://www.linkedin.com/in/fernandomarqs/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:f247093@dac.unicamp.br)](mailto:f247093@dac.unicamp.br)
+![Linkedin](https://img.shields.io/badge/-fernandomarqs-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernandomarqs/)
+[![Gmail Badge](https://img.shields.io/badge/-f247093@dac.unicamp.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:f247093@dac.unicamp.br)](mailto:f247093@dac.unicamp.br)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/fernandomarqs)
